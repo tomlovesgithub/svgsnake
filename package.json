@@ -1,6 +1,6 @@
 {
   "name": "site",
-  "homepage": "http://tomlovesgithub.github.io/",
+  "homepage": "http://tomlovesgithub.github.io/svgsnake",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
