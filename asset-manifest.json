@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/svgsnake/static/js/main.e49534d1.chunk.js",
+    "main.js.map": "/svgsnake/static/js/main.e49534d1.chunk.js.map",
+    "runtime-main.js": "/svgsnake/static/js/runtime-main.84fba756.js",
+    "runtime-main.js.map": "/svgsnake/static/js/runtime-main.84fba756.js.map",
+    "static/js/2.f0ae7a54.chunk.js": "/svgsnake/static/js/2.f0ae7a54.chunk.js",
+    "static/js/2.f0ae7a54.chunk.js.map": "/svgsnake/static/js/2.f0ae7a54.chunk.js.map",
+    "index.html": "/svgsnake/index.html",
+    "precache-manifest.7d02ad22c28d06f451cc3515a19ac334.js": "/svgsnake/precache-manifest.7d02ad22c28d06f451cc3515a19ac334.js",
+    "service-worker.js": "/svgsnake/service-worker.js",
+    "static/js/2.f0ae7a54.chunk.js.LICENSE.txt": "/svgsnake/static/js/2.f0ae7a54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84fba756.js",
+    "static/js/2.f0ae7a54.chunk.js",
+    "static/js/main.e49534d1.chunk.js"
+  ]
+}
